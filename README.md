@@ -13,7 +13,7 @@ Mostra tuas coords no tooltip e copia pro clipboard quando tu clica.
 ## [Esp.luau](https://github.com/WallScripts/tool/blob/main/Esp.luau)
 ESP básico, destaca geral com highlight branco. Lagzinho de leve se o server tiver lotado.
 - Como usa: Clicou = ativa. Clicou dnv = desativa
-- Nota: Lag é brabo se tiver muita gente, mas funciona
+- Nota: Fica meio ligado se tiver muita gente, mais funciona(eu acho)
 
 ---
 
@@ -34,7 +34,6 @@ Paredes? Nunca ouvi falar.
 ## [Swim.luau](https://github.com/WallScripts/tool/blob/main/Coord.luau)
 Nada no ar. Bugado? Sim. Legal? mais ou menos.
 - Como usa: Clicou = voa/nada. Clicou dnv = parou
-- Controles: WASD = nada / Space = sobe
 - Créditos: [Infinite Yield](https://infyiff.github.io/)
 
 ---
