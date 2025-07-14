@@ -4,7 +4,7 @@ local player = Players.LocalPlayer
 local tool = Instance.new("Tool")
 tool.RequiresHandle = false
 tool.Name = "Tp"
-tool.Tip = "click to teleport(mouse)"
+tool.ToolTip = "click to teleport(mouse)"
 
 tool.Activated:Connect(function()
     local mouse = player:GetMouse()
