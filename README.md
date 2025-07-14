@@ -1,10 +1,10 @@
 # Lista de Tools Coisados
 Quase tudo tirado na cara dura do Infinite Yield KKKKKKK
-
+https://infyiff.github.io/
 ---
 
 ## Coord.lua
-Mostra tuas coords em tempo real no tooltip e copia pro clipboard quando tu clica.
+Mostra tuas coords no tooltip e copia pro clipboard quando tu clica.
 - Como usa: Clicou? GG, tuas coords já tão no Ctrl+V
 - Pra quê serve: Marcar lugar, posição, fazer auto farm... sla
 
@@ -27,12 +27,12 @@ Tira sombra, tira fog, clareia tudo.
 ## Noclip.lua
 Paredes? Nunca ouvi falar.
 - Como usa: Equipou = atravessa tudo. Tirou = volta ao normal
-- Créditos: Infinite Yield feelings
+- Créditos: Infinite Yield
 
 ---
 
 ## Speed.lua
-Corre igual o Sonic, vai pra 32 de speed.
+semideia.txt
 - Como usa: Clicou = anda rápido. Clicou dnv = volta ao normal
 - Velocidade: 32 (padrão é 16). Você pode mudar o valor, não é so 32 não 
 
@@ -49,14 +49,14 @@ Nada no ar. Bugado? Sim. Legal? mais ou menos.
 ## Tp.lua
 Teleporta pra onde teu mouse tá apontando.
 - Como usa: Clicou = tá lá
-- Dica: Mira no chão, senão tu vai pra Nárnia
+- Dica: Mira no chão, senão tu vai pra pqp
 
 ---
 
 ## Xray.lua
 Vira raio-x, vê tudo pelas paredes.
 - Como usa: Clicou = ativa. Clicou dnv = desativa
-- Efeito: Tudo fica meio transparente.
+- Efeito: Tudo fica meio transparente
 
 ---
 
@@ -69,4 +69,4 @@ Vira raio-x, vê tudo pelas paredes.
 
 Obs: Nem tudo funciona em todo jogo. Se o dev for brabo, vai dar erro mesmo(ate ban).
 
-Disclaimer: Usa por tua conta e risco. Tomou ban? A culpa não é minha.
+Disclaimer: Usa por tua conta e risco, alias você usa um script/executor sabendo que pode tomar ban, né?
