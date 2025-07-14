@@ -5,7 +5,7 @@ local player = Players.LocalPlayer
 
 local tool = Instance.new("Tool")
 tool.Name = "Fullbright"
-tool.Tip = "click to enable/disable fullblight"
+tool.ToolTip = "click to enable/disable fullblight"
 tool.RequiresHandle = false
 tool.Parent = player.Backpack
 
