@@ -70,3 +70,5 @@ Vira raio-x, vê tudo pelas paredes.
 Obs: Nem tudo funciona em todo jogo. Se o dev for brabo, vai dar erro mesmo(ate ban).
 
 Disclaimer: Usa por tua conta e risco, alias você usa um script/executor sabendo que pode tomar ban, né?
+
+<sub> vou colocar mais coisas depois. aliás, quem iria usar isso mesmo, com chat gpt tu faz tudo isso em 10 minutos </sub>
