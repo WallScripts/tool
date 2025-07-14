@@ -11,7 +11,7 @@ local Clip = true
 
 local tool = Instance.new("Tool")
 tool.Name = "Noclip"
-tool.Tip = "equip/unequip = enable/disable noclip"
+tool.ToolTip = "equip/unequip = enable/disable noclip"
 tool.RequiresHandle = false
 tool.CanBeDropped = false
 tool.Parent = b:WaitForChild("Backpack")
