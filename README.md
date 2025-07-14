@@ -1,4 +1,4 @@
-# Lista de Tools Coisadas
+# Lista de Tools Coisados
 Quase tudo tirado na cara dura do Infinite Yield KKKKKKK
 
 ---
