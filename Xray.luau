@@ -3,7 +3,7 @@ local player = Players.LocalPlayer
 
 local tool = Instance.new("Tool")
 tool.Name = "X-RayTool"
-tool.Tip = "click to enable/disable"
+tool.ToolTip = "click to enable/disable"
 tool.RequiresHandle = false
 tool.Parent = player.Backpack
 
