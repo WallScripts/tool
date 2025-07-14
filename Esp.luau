@@ -3,7 +3,7 @@ local player = Players.LocalPlayer
 
 local tool = Instance.new("Tool")
 tool.Name = "ESP"
-tool.Tip = "(lag) click do enable/disable esp"
+tool.ToolTip = "(lag) click do enable/disable esp"
 tool.RequiresHandle = false
 tool.Parent = player.Backpack
 
