@@ -62,7 +62,7 @@ Vira raio-x, vê tudo pelas paredes.
 
 ## Como usar essas porra:
 1. Copia o script que tu quer usar
-2. Cola no executor do Roblox
+2. Cola em um executor doroblox(Delta, Swift, Solara, krnl, toda a porra que ta surgindo ai do nada)
 3. Clica em execute/inject sla oque essa porra vai estar dizendo
 4. A Tool aparece no teu inventário
 5. Seja feliz
